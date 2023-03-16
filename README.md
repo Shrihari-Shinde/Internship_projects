@@ -1,3 +1,2 @@
-# Internship_projects
-In thise projec Alarm clock is build with the help of python
--Shrihari Shinde
+# AlarmClock-in-python
+This is a alarm clock made in python
